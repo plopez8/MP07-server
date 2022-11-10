@@ -1,0 +1,788 @@
+[
+    [
+        "::1",
+        "",
+        "2022-10-30 18:16:10pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:26:28pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:26:34pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:27:05pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:27:09pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:33:45pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:33:49pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:33:55pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:36:18pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:36:28pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:41:31pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:41:43pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:41:49pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:44:49pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:49:52pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:50:08pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:50:08pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:51:47pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:51:50pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:51:50pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 18:53:42pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:53:48pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:53:48pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:54:09pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:54:09pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:54:28pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:54:28pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:55:51pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:55:51pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:55:55pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:55:55pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:56:59pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:56:59pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:59:52pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 18:59:52pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:00:32pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:00:32pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:23pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:23pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:25pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:25pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:37pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:02:37pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:03:03pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:03:05pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:03:09pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:03:13pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:03:19pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:05:12pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:23pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:23pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:26pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:26pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:36pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:09:36pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:12:45pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:12:45pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:13:44pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:13:44pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:14:31pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:14:31pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:15:13pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:15:53pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:25:40pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:25:46pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "sa@a",
+        "2022-10-30 19:25:52pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:28:16pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:28:16pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:28:25pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:28:30pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:45:02pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@pa",
+        "2022-10-30 19:45:10pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:45:16pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-10-30 19:45:22pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "",
+        "2022-10-30 19:45:25pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-01 21:21:07pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-01 21:21:07pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-01 21:21:15pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-01 21:21:24pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-01 21:21:29pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "plope@coma.cat",
+        "2022-11-01 21:21:42pm",
+        "nou-usuari"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:03:41pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:03:41pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:13:46pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:13:46pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "plopez8@boscdelacoma.cat",
+        "2022-11-03 17:14:05pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:21:36pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:21:36pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-11-03 17:21:50pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-11-03 17:21:55pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:28:55pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:29:04pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:29:04pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:29:12pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:36:11pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:36:17pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 17:36:27pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:36:37pm",
+        "nou-usuari"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:38pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:38pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:45pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:54pm",
+        "creacio-fallida"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:59pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:40:59pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:17pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:17pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:24pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:30pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:34pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:39pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:42pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:48pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:42:48pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-11-03 17:43:47pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:43:56pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:43:56pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:43:59pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "a@a",
+        "2022-11-03 17:44:10pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "paulopez.013@gmail.com",
+        "2022-11-03 17:50:37pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "paulopez.013@gmail.com",
+        "2022-11-03 17:50:47pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 18:52:09pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 18:52:09pm",
+        "usuari-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-03 18:52:18pm",
+        "correcte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:02pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:08pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:14pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:22pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:25pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:30pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "patata@patata",
+        "2022-11-07 15:40:39pm",
+        "contrasenya-incorrecte"
+    ],
+    [
+        "::1",
+        "",
+        "2022-11-10 17:21:57pm",
+        "creacio-fallida"
+    ]
+]
