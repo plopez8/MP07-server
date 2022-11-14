@@ -1,0 +1,74 @@
+[
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-12 23:55:44",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-12 23:55:54",
+        "status": "signup_success"
+    },
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-12 23:55:56",
+        "status": "logoff"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-12 23:56:14",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-12 23:56:15",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-13 00:04:07",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-13 00:04:14",
+        "status": "signin_password_error"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-13 00:04:26",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-13 00:04:29",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-11-13 00:05:29",
+        "status": "signin_email_error"
+    },
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-13 00:05:32",
+        "status": "signin_password_error"
+    },
+    {
+        "ip": "::1",
+        "user": "patata@patata",
+        "time": "2022-11-13 00:05:36",
+        "status": "signin_password_error"
+    }
+]
